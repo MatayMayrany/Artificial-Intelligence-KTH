@@ -1,0 +1,5 @@
+*.class
+.idea/
+pipe1
+pipe2
+.DS_Store
